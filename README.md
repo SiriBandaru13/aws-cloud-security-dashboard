@@ -389,7 +389,7 @@ CloudWatch alarm enters ALARM state
 ## Screenshots
 
 ### Architecture Diagram
-![Architecture](screenshots/architecture-diagram.png)
+![Architecture](screenshots/architechture-diagram.png)
 
 ### Security Dashboard — 6 widgets live
 ![Dashboard](screenshots/dashboard.png)
