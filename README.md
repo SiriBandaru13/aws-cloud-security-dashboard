@@ -73,7 +73,28 @@ Custom least privilege policy created for security auditor role:
 - AWS Foundational Security Best Practices
 
 ## Screenshots
-[To be added]
+## Architecture Diagram
+![Architecture](screenshots/architecture-diagram.png)
+
+## Project Screenshots
+
+### Security Dashboard
+![Dashboard](screenshots/Security Monitoring Dashboard.png)
+
+### CloudWatch Alarms
+![Alarms](screenshots/Cloudwatch Alarms.png)
+
+### Failed Login Detection (Tested)
+![Failed Login Alarm](screenshots/failed-login-alarm.png)
+
+### Lambda Function Test
+![Lambda Test](screenshots/lambda-test.png)
+
+### IAM Security Setup
+![IAM Setup](screenshots/iam-setup.png)
+
+### S3 Secure Log Storage
+![S3 Bucket](screenshots/s3-bucket.png)
 
 ## Future Improvements
 - Enable CloudTrail Insights for ML based anomaly detection
