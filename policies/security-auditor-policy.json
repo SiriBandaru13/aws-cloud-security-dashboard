@@ -1,0 +1,23 @@
+{
+  "_comment": "Least privilege security auditor role - read only access to security services",
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Action": [
+        "cloudtrail:LookupEvents",
+        "cloudtrail:GetTrailStatus",
+        "guardduty:ListFindings",
+        "guardduty:GetFindings",
+        "securityhub:GetFindings",
+        "cloudwatch:GetMetricData",
+        "cloudwatch:DescribeAlarms",
+        "iam:GenerateCredentialReport",
+        "iam:GetCredentialReport",
+        "iam:ListUsers",
+        "iam:ListAccessKeys"
+      ],
+      "Resource": "*"
+    }
+  ]
+}
