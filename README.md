@@ -74,15 +74,15 @@ Custom least privilege policy created for security auditor role:
 
 ## Screenshots
 ## Architecture Diagram
-![Architecture](screenshots/architecture-diagram.png)
+![Architecture](screenshots/architechture-diagram.png)
 
 ## Project Screenshots
 
 ### Security Dashboard
-![Dashboard](screenshots/Security Monitoring Dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 
 ### CloudWatch Alarms
-![Alarms](screenshots/Cloudwatch Alarms.png)
+![Alarms](screenshots/alarms.png)
 
 ### Failed Login Detection (Tested)
 ![Failed Login Alarm](screenshots/failed-login-alarm.png)
