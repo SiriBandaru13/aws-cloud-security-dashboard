@@ -86,6 +86,10 @@ Custom least privilege policy created for security auditor role:
 
 ### Failed Login Detection (Tested)
 ![Failed Login Alarm](screenshots/failed-login-alarm.png)
+![Failed Login Alarm Graph](screenshots/alarm-graph.png)
+
+###Failed Login Alarm Email (Tested)
+![Failed Login Alarm Email](screenshots/alarm-email.png)
 
 ### Lambda Function Test
 ![Lambda Test](screenshots/lambda-test.png)
